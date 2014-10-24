@@ -27,51 +27,51 @@
   <tr>
     <td><!-- TemplateBeginIf cond="_document['The Doctors Sub Menu']" -->
       <ul>
-        <li>The First Doctor</li>
-        <li>The Second Doctor</li>
-        <li>The Third Doctor</li>
-        <li>The Fourth Doctor</li>
-        <li>The Fifth Doctor</li>
-        <li>The Sixth Doctor</li>
-        <li>The Seventh Doctor</li>
+        <li><a href="../the-doctors/characters/the-first-doctor.html">The First Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-second-doctor.html">The Second Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-third-doctor.html">The Third Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-fourth-doctor.html">The Fourth Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-fifth-doctor.html">The Fifth Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-sixth-doctor.html">The Sixth Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-seventh-doctor.html">The Seventh Doctor</a></li>
         <li><a href="../the-doctors/characters/the-eigth-doctor.html">The Eighth Doctor</a></li>
-        <li>The War Doctor</li>
-        <li>The Ninth Doctor</li>
-        <li>The Tenth Doctor</li>
-        <li>The Eleventh Doctor</li>
-        <li>The Twelfth Doctor </li>
+        <li><a href="../the-doctors/characters/the-war-doctor.html">The War Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-ninth-doctor.html">The Ninth Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-tenth-doctor.html">The Tenth Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-eleventh-doctor.html">The Eleventh Doctor</a></li>
+        <li><a href="../the-doctors/characters/the-twelfth-doctor.html">The Twelfth Doctor </a></li>
       </ul>
     <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['Companions Sub Menu']" -->
     <ul>
-      <li>Clara Oswald</li>
-      <li>River Song</li>
-      <li>Rory Williams</li>
-      <li>Amy Pond</li>
-      <li>Sarah Jane Smith</li>
-      <li>Jack Harkness</li>
-      <li>Martha Jones</li>
-      <li>Donna Noble</li>
-      <li>Mickey Smith</li>
-      <li>Rose Tyler </li>
+      <li><a href="../companions/characters/clara-oswald.html">Clara Oswald</a></li>
+      <li><a href="../companions/characters/river-song.html">River Song</a></li>
+      <li><a href="../companions/characters/rory-williams.html">Rory Williams</a></li>
+      <li><a href="../companions/characters/amy-pond.html">Amy Pond</a></li>
+      <li><a href="../companions/characters/sarah-jane-smith.html">Sarah Jane Smith</a></li>
+      <li><a href="../companions/characters/jack-harkness.html">Jack Harkness</a></li>
+      <li><a href="../companions/characters/martha-jones.html">Martha Jones</a></li>
+      <li><a href="../companions/characters/donna-noble.html">Donna Noble</a></li>
+      <li><a href="../companions/characters/mickey-smith.html">Mickey Smith</a></li>
+      <li><a href="../companions/characters/rose-tyler.html">Rose Tyler </a></li>
     </ul>
     <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['Villians Sub Menu']" -->
     <ul>
-      <li>Zygon</li>
-      <li>The Weeping Angles</li>
-      <li>The Silence</li>
-      <li>The Master</li>
-      <li>The Daleks</li>
-      <li>The Cybermen</li>
-      <li>Sontarans</li>
-      <li>Slitheen</li>
-      <li>Empress of Racnoss </li>
+      <li><a href="../villians/characters/zygon.html">Zygon</a></li>
+      <li><a href="../villians/characters/the-weeping-angels.html">The Weeping Angles</a></li>
+      <li><a href="../villians/characters/the-silence.html">The Silence</a></li>
+      <li><a href="../villians/characters/the-master.html">The Master</a></li>
+      <li><a href="../villians/characters/the-daleks.html">The Daleks</a></li>
+      <li><a href="../villians/characters/the-cybermen.html">The Cybermen</a></li>
+      <li><a href="../villians/characters/sontarans.html">Sontarans</a></li>
+      <li><a href="../villians/characters/slitheen.html">Slitheen</a></li>
+      <li><a href="../villians/characters/empress-of-racnoss.html">Empress of Racnoss</a></li>
     </ul>
     <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['Show History Sub Menu']" -->
     <ul>
-      <li>1996 Film</li>
-      <li>2005 Revival</li>
-      <li>Origins</li>
-      <li>The Original Series</li>
+      <li><a href="../show-history/1996-film.html">1996 Film</a></li>
+      <li><a href="../show-history/2005-revival.html">2005 Revival</a></li>
+      <li><a href="../show-history/origins.html">Origins</a></li>
+      <li><a href="../show-history/the-original-series.html">The Original Series</a></li>
     </ul>
     <!-- TemplateEndIf --></td>
     <td><!-- TemplateBeginEditable name="Page Content" --><!-- TemplateEndEditable --></td>
