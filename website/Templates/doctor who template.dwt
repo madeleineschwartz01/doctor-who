@@ -28,7 +28,7 @@
     <td><!-- TemplateBeginIf cond="_document['homepage banner']" --><img src="../banners/the-doctors.jpg" width="1000" height="200"><!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['villians banner this one']" --><img src="../images/villians-banner.jpg" width="1000" height="250"><!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['companions banner']" --><img src="../images/companions-new-banner.jpg" width="1000" height="250"><!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['show history banner']" --><img src="../images/show-history-banner.jpg" width="1000" height="250"><!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['doctors banner']" --><img src="../images/doctor-banner-new.jpg" width="1000" height="250"><!-- TemplateEndIf --></td>
   </tr>
   <tr>
-    <td><a href="../index.html">Home</a> | <a href="../the-doctors/index.html">The Doctors</a> | <a href="../companions/index.html">The Companions</a> | <a href="../villians/index.html">The Villians</a> | <a href="../show-history/index.html">Show History</a></td>
+    <td class="primarynav"><a href="../index.html">Home</a> <a href="../the-doctors/index.html">The Doctors</a> <a href="../companions/index.html">The Companions</a> <a href="../villians/index.html">The Villians</a>  <a href="../show-history/index.html">Show History</a></td>
   </tr>
 </table>
 <table class="general-width">
@@ -81,25 +81,26 @@
       <li><a href="../show-history/origins.html">Origins</a></li>
       <li><a href="../show-history/the-original-series.html">The Original Series</a></li>
     </ul>
-    <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['dr-who-photo']" --><img src="../images/dr-who-resize.jpg" width="300" height="425"><!-- TemplateEndIf --></td>
-    <td><!-- TemplateBeginEditable name="Page Content" --><!-- TemplateEndEditable --></td>
+    <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['dr-who-photo']" --><img src="../images/me.jpg" width="300" height="425"><img src="../images/dr-who-resize.jpg" width="300" height="425"><!-- TemplateEndIf --></td>
+    <td class="contentstuff"><!-- TemplateBeginEditable name="Page Content" --><!-- TemplateEndEditable --></td>
   </tr>
 </table>
 <table class="general-width">
   <tr>
-    <td class="table-25"><p>Brendan Davey</p>
-    <p>Monica DuCong'e</p>
-    <p>Erik Eyler</p>
-    <p>Kayleen Garcia</p>
-    <p>Katie Hyche</p>
-    <p>Ryan Moeller</p></td>
-    <td class="table-25"><p>Christine O'Brien</p>
-    <p>Alex Recinos</p>
-    <p>Julia Schwartz</p>
-    <p>Madeleine Schwartz</p>
+    <td class="table-25"><p><a href="http://149.61.52.23">Brendan Davey</a></p>
+    <p><a href="http://149.61.52.11">Monica DuCong'e</a></p>
+    <p><a href="http://149.61.52.21">Erik Eyler</a></p>
+    <p><a href="http://149.61.52.18">Kayleen Garcia</a></p>
+    <p><a href="http://149.61.52.19">Katie Hyche</a></p>
+    <p><a href="http://149.61.52.15">Ryan Moeller</a></p></td>
+    <td class="table-25"><p><a href="http://149.61.52.16">Christine O'Brien</a></p>
+    <p><a href="http://149.61.52.17">Alex Recinos</a></p>
+    <p><a href="http://149.61.52.22">Julia Schwartz</a></p>
+    <p><strong>Madeleine Schwartz</strong></p>
     <p>Ann Marie Skjold</p>
-    <p>Ashly Wilkins</p></td>
-    <td class="table-50">[References]</td>
+    <p><a href="http://149.61.52.13">Ashly Wilkins</a></p></td>
+    <td class="table-50"><p>Content derived from <a href="http://en.wikipedia.org/wiki/Doctor_Who">Dr. Who </a>Wikipedia.</p>
+    <p>&nbsp;</p></td>
   </tr>
 </table>
 </body>
